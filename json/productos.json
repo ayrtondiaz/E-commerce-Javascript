@@ -1,0 +1,233 @@
+[{
+  "id": 1,
+  "imagen": "../assets/img/peluqueria/tintura.jpg",
+  "nombre": "Tintura",
+  "tipo": "Peluqueria",
+  "stockProductos": 200,
+  "precio": 250
+},
+{
+  "id": 2,
+  "imagen": "../assets/img/peluqueria/alisado.jpeg",
+  "nombre": "Alisado",
+  "tipo": "Peluqueria",
+  "stockProductos": 200,
+  "precio": 300
+},
+{
+  "id": 3,
+  "imagen": "../assets/img//maquillaje/crema2.jpeg",
+  "nombre": "Maquillaje Base",
+  "tipo": "Maquillaje",
+  "stockProductos": 200,
+  "precio": 135
+},
+{
+  "id": 4,
+  "imagen": "../assets/img//maquillaje/crema1.jpeg",
+  "nombre": "Crema Hidratante",
+  "tipo": "Maquillaje",
+  "stockProductos": 200,
+  "precio": 100
+},
+{
+  "id": 5,
+  "imagen": "../assets/img/peluqueria/decolorante.jpg",
+  "nombre": "Aclarante",
+  "tipo": "Peluqueria",
+  "stockProductos": 200,
+  "precio": 500
+},
+{
+  "id": 6,
+  "imagen": "../assets/img/peluqueria/oxidante.jpg",
+  "nombre": "Oxidante",
+  "tipo": "Peluqueria",
+  "stockProductos": 200,
+  "precio": 120
+},
+{
+  "id": 7,
+  "imagen": "../assets/img/estetica/esmalte.jpeg",
+  "nombre": "Esmalte",
+  "tipo": "Estetica",
+  "stockProductos": 200,
+  "precio": 250
+},
+{
+  "id": 8,
+  "imagen": "../assets/img/estetica/pestañas.jpeg",
+  "nombre": "Pestañas",
+  "tipo": "Estetica",
+  "stockProductos": 200,
+  "precio": 700
+},
+{
+  "id": 9,
+  "imagen": "../assets/img/peluqueria/ampolla.jpeg",
+  "nombre": "Ampolla de Nutricion",
+  "tipo": "Peluqueria",
+  "stockProductos": 200,
+  "precio": 300
+},
+{
+  "id": 10,
+  "imagen": "../assets/img/peluqueria/botox.jpeg",
+  "nombre": "Botox",
+  "tipo": "Peluqueria",
+  "stockProductos": 200,
+  "precio": 600
+},
+{
+  "id": 11,
+  "imagen": "../assets/img/peluqueria/crema.jpeg",
+  "nombre": "Crema de Baño",
+  "tipo": "Peluqueria",
+  "stockProductos": 200,
+  "precio": 800
+},
+{
+  "id": 12,
+  "imagen": "../assets/img/peluqueria/serum.jpeg",
+  "nombre": "Serum",
+  "tipo": "Peluqueria",
+  "stockProductos": 200,
+  "precio": 300
+},
+{
+  "id": 13,
+  "imagen": "../assets/img/peluqueria/shampo.jpeg",
+  "nombre": "Shampoo",
+  "tipo": "Peluqueria",
+  "stockProductos": 200,
+  "precio": 750
+},
+{
+  "id": 14,
+  "imagen": "../assets/img/peluqueria/termico.jpeg",
+  "nombre": "Protector Termico",
+  "tipo": "Peluqueria",
+  "stockProductos": 200,
+  "precio": 250
+},
+{
+  "id": 15,
+  "imagen": "../assets/img//maquillaje/balsamo.jpg",
+  "nombre": "Balsamo",
+  "tipo": "Maquillaje",
+  "stockProductos": 200,
+  "precio": 200
+},
+{
+  "id": 16,
+  "imagen": "../assets/img//maquillaje/glitter.jpeg",
+  "nombre": "Glitters",
+  "tipo": "Maquillaje",
+  "stockProductos": 200,
+  "precio": 300
+},
+{
+  "id": 17,
+  "imagen": "../assets/img//maquillaje/iluminador.jpeg",
+  "nombre": "Iluminador",
+  "tipo": "Maquillaje",
+  "stockProductos": 200,
+  "precio": 450
+},
+{
+  "id": 18,
+  "imagen": "../assets/img//maquillaje/paleta.jpeg",
+  "nombre": "Paleta",
+  "tipo": "Maquillaje",
+  "stockProductos": 200,
+  "precio": 1200
+},
+{
+  "id": 19,
+  "imagen": "../assets/img//maquillaje/primer.jpg",
+  "nombre": "Maquillaje Primer",
+  "tipo": "Maquillaje",
+  "stockProductos": 200,
+  "precio": 950
+},
+{
+  "id": 20,
+  "imagen": "../assets/img//maquillaje/rubor.jpg",
+  "nombre": "Rubor",
+  "tipo": "Maquillaje",
+  "stockProductos": 200,
+  "precio": 500
+},
+{
+  "id": 21,
+  "imagen": "../assets/img/estetica/aceite.jpeg",
+  "nombre": "Aceite para Uñas",
+  "tipo": "Estetica",
+  "stockProductos": 200,
+  "precio": 500
+},
+{
+  "id": 22,
+  "imagen": "../assets/img/estetica/base.jpeg",
+  "nombre": "Base Coat",
+  "tipo": "Estetica",
+  "stockProductos": 200,
+  "precio": 800
+},
+{
+  "id": 23,
+  "imagen": "../assets/img/estetica/top.jpeg",
+  "nombre": "Top Coat",
+  "tipo": "Estetica",
+  "stockProductos": 200,
+  "precio": 800
+},
+{
+  "id": 24,
+  "imagen": "../assets/img/estetica/gel.jpeg",
+  "nombre": "Gel para Uñas",
+  "tipo": "Estetica",
+  "stockProductos": 200,
+  "precio": 700
+},
+{
+  "id": 25,
+  "imagen": "../assets/img/estetica/lima.jpeg",
+  "nombre": "Limas",
+  "tipo": "Estetica",
+  "stockProductos": 200,
+  "precio": 500
+},
+{
+  "id": 26,
+  "imagen": "../assets/img/estetica/aceite.jpeg",
+  "nombre": "Aceite para Uñas",
+  "tipo": "Estetica",
+  "stockProductos": 200,
+  "precio": 500
+},
+{
+  "id": 27,
+  "imagen": "../assets/img/estetica/pegamento.jpeg",
+  "nombre": "Pegamento para Pestañas",
+  "tipo": "Estetica",
+  "stockProductos": 200,
+  "precio": 1350
+},
+{
+  "id": 28,
+  "imagen": "../assets/img/estetica/pinza.jpeg",
+  "nombre": "Pinza para Pestañas",
+  "tipo": "Estetica",
+  "stockProductos": 200,
+  "precio": 650
+},
+{
+  "id": 29,
+  "imagen": "../assets/img/estetica/stras.jpeg",
+  "nombre": "Strass para Uñas",
+  "tipo": "Estetica",
+  "stockProductos": 200,
+  "precio": 500
+}
+]
