@@ -279,7 +279,7 @@ const inicializarDatosYPagina = (productosStorageConvertidos, listaDeCarrito) =>
   // Si key "productos" existe en el localStorage, no se hace nada, sino se traen los productos del JSON y se guardan en el localStorage
   if (!localStorage.key(KEY_PRODUCTOS)) {
     // Se declara la URL del archivo JSON local
-  const  URLJSON = "json/productos.json";
+  const  URLJSON = "../json/productos.json";
     // Se pide la información almacenada en el JSON
     $.getJSON(URLJSON, (listaDeProductos, estado) => {
       if (estado === "success") {

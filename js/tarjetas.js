@@ -85,7 +85,8 @@ const resetearVista = () => {
   eliminarBotonesPagoCarrito();   // Se eliminan botones del carrito
   eliminarCarousel();             // Se elimina carousel
   eliminarTitulo();               // Se elimina titulo
-  eliminarSeccion();
+  eliminarSeccion();              // Se elimina Seccion
+  eliminarBoton();                // Se elimina boton de volver a inicio
 }
 
 const fadeInTarjetas = () => {
@@ -109,12 +110,7 @@ const imprimirTarjetasFiltradas = (productos, tipo, carrito, busqueda = '') => {
     if (carrito.length === 0) {
       // Mensaje de carrito vacío
       mostrarTitulo(`No posee elementos en el carrito`);
-      let btnvolver = document.getElementById("btn-volver");
-      btnvolver.innerHTML=`
-      <button class="btn-volver" id="btn-volver">Volver al Inicio</button>
-      `
-      
-      btnvolver.onclick=()=>{ window.location.href="../index.html";}
+      imprimirBoton();     
 
     } else {                                   // Si recibo otro tipo y coincide con las tarjetas, se imprimen las tarjetas de ese tipo
       mostrarTitulo("Carrito");
@@ -135,4 +131,6 @@ const imprimirTarjetasFiltradas = (productos, tipo, carrito, busqueda = '') => {
     });
     fadeInTarjetas();
   }
+
+ 
 }
