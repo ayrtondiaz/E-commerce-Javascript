@@ -6,4 +6,6 @@ Se realiza la carga de los productos en archivo JSON productos y se utiliza el l
 
 Muestra de la pagina:
 
-https://ayrtondiaz.github.io/E-commerce-Javascript/
+https://ayrtondiaz.github.io/E-commerce-Javascript/ 
+o
+https://fenix-inzumos.000webhostapp.com/
